@@ -1,0 +1,20 @@
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 04.05.2021\Tesla\bin\Debug\Tesla.exe.config
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 04.05.2021\Tesla\bin\Debug\Tesla.exe
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 04.05.2021\Tesla\bin\Debug\Tesla.pdb
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 04.05.2021\Tesla\obj\Debug\Tesla.csprojAssemblyReference.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 04.05.2021\Tesla\obj\Debug\Tesla.FormTesla.resources
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 04.05.2021\Tesla\obj\Debug\Tesla.Properties.Resources.resources
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 04.05.2021\Tesla\obj\Debug\Tesla.csproj.GenerateResource.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 04.05.2021\Tesla\obj\Debug\Tesla.csproj.CoreCompileInputs.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 04.05.2021\Tesla\obj\Debug\Tesla.exe
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 04.05.2021\Tesla\obj\Debug\Tesla.pdb
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 04.05.2021\Tesla\bin\Debug\Tesla.exe.config
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 04.05.2021\Tesla\bin\Debug\Tesla.exe
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 04.05.2021\Tesla\bin\Debug\Tesla.pdb
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 04.05.2021\Tesla\obj\Debug\Tesla.csproj.AssemblyReference.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 04.05.2021\Tesla\obj\Debug\Tesla.FormTesla.resources
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 04.05.2021\Tesla\obj\Debug\Tesla.Properties.Resources.resources
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 04.05.2021\Tesla\obj\Debug\Tesla.csproj.GenerateResource.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 04.05.2021\Tesla\obj\Debug\Tesla.csproj.CoreCompileInputs.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 04.05.2021\Tesla\obj\Debug\Tesla.exe
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 04.05.2021\Tesla\obj\Debug\Tesla.pdb

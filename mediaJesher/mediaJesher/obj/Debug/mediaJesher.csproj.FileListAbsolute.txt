@@ -1,0 +1,20 @@
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\mediaJesher\mediaJesher\bin\Debug\mediaJesher.exe.config
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\mediaJesher\mediaJesher\bin\Debug\mediaJesher.exe
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\mediaJesher\mediaJesher\bin\Debug\mediaJesher.pdb
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\mediaJesher\mediaJesher\obj\Debug\mediaJesher.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\mediaJesher\mediaJesher\obj\Debug\mediaJesher.frm_media.resources
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\mediaJesher\mediaJesher\obj\Debug\mediaJesher.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\mediaJesher\mediaJesher\obj\Debug\mediaJesher.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\mediaJesher\mediaJesher\obj\Debug\mediaJesher.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\mediaJesher\mediaJesher\obj\Debug\mediaJesher.exe
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\mediaJesher\mediaJesher\obj\Debug\mediaJesher.pdb
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\13.09.2021 Modificado\mediaJesher\mediaJesher\bin\Debug\mediaJesher.exe.config
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\13.09.2021 Modificado\mediaJesher\mediaJesher\bin\Debug\mediaJesher.exe
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\13.09.2021 Modificado\mediaJesher\mediaJesher\bin\Debug\mediaJesher.pdb
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\13.09.2021 Modificado\mediaJesher\mediaJesher\obj\Debug\mediaJesher.csproj.AssemblyReference.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\13.09.2021 Modificado\mediaJesher\mediaJesher\obj\Debug\mediaJesher.frm_media.resources
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\13.09.2021 Modificado\mediaJesher\mediaJesher\obj\Debug\mediaJesher.Properties.Resources.resources
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\13.09.2021 Modificado\mediaJesher\mediaJesher\obj\Debug\mediaJesher.csproj.GenerateResource.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\13.09.2021 Modificado\mediaJesher\mediaJesher\obj\Debug\mediaJesher.csproj.CoreCompileInputs.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\13.09.2021 Modificado\mediaJesher\mediaJesher\obj\Debug\mediaJesher.exe
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\13.09.2021 Modificado\mediaJesher\mediaJesher\obj\Debug\mediaJesher.pdb
